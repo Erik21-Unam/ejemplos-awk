@@ -9,5 +9,5 @@ Para probar los scripts ejecutar los siguientes comandos:
 -f archivo awk
 ```
 
-**1. awk -F ',' -f script1.awk calificaciones.csv**
+**1. awk -F ',' -f script1.awk calificaciones.csv > alumnos.csv**
 
