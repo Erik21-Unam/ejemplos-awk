@@ -9,7 +9,7 @@ BEGIN {
     if(NR > 1 && $2 != "") {
         # mostramos los que coincidan con este valor
         if($3 == 2030) {
-            # mostramos solo algunas columnas
+            # mostramos las columnas 1,2,4
             print $1,$4,$2
         }
     }
