@@ -1,4 +1,4 @@
-# Instrucciones
+## Instrucciones
 
 Se debe instalar el siguiente paquete: **sudo apt install gawk**
 
@@ -13,3 +13,6 @@ Para probar los scripts ejecutar los siguientes comandos:
 
 **2. awk -F ',' -f script2.awk informacion.csv > personas.txt**
 
+---
+
+## Otros comandos para probar
